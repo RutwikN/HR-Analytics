@@ -54,6 +54,6 @@ Developed a comprehensive HR analytics solution to uncover workforce insights, s
 
 ### 📌 Skills Demonstrated
 
-`SQL` `Data Modeling` `DAX` `Power BI` `Tableau` `Excel` `HR Metrics` `Dashboard Development` `ETL` `Data Cleaning` `Storytelling with Data`
+`SQL` `Data Modeling` `Power BI` `Tableau` `Excel` `HR Metrics` `Dashboard Development` `Data Cleaning` `Storytelling with Data`
 
 
