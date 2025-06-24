@@ -15,7 +15,7 @@ Developed a comprehensive HR analytics solution to uncover workforce insights, s
 * **SQL** – Data extraction and transformation from relational databases (MySQL)
 * **Power BI** – Interactive dashboards and reports with Dynamic data visualization
 * **Tableau** – Executive dashboards for trend analysis and storytelling
-* **Excel** – Data cleaning, EDA, workforce modeling, and scenario planning
+* **Excel** – Data cleaning, EDA, workforce modeling, and Dashboards using pivoy charts
 
 ---
 
